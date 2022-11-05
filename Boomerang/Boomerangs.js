@@ -1,15 +1,13 @@
-const array = [2, 1, 2, 3, 3, 4, 2, 4];
+const array = [2, 1, 2, 3, 3, 3, 4, 2, 4, 6, 4];
 
-let boomerang = [];
+let boomerangs = [];
 let index = 0;
 
 while (index < array.length - 2) {
-  if (array[index] === array[index + 2]) {
-    boomerang.push(array.slice(index, index + 3));
-    index += 3;
-  } else {
-    index++;
-  }
+  if (array[index] === array[index + 2] && array[index] !== array[index + 1])
+    boomerangs.push(array.slice(index, index + 3));
+  index++;
 }
 
-console.log(boomerang);
+console.log('Boomerangs: ', boomerangs.length)
+console.log(boomerangs);
