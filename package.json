@@ -1,0 +1,26 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "Retos Semanales y Mensuales para mejorar la lógica de programación y portfolio de  aplicaciones.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acm-97/JavaScript-Challenges.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Alejandro Cabrera Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acm-97/JavaScript-Challenges/issues"
+  },
+  "homepage": "https://github.com/acm-97/JavaScript-Challenges#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
