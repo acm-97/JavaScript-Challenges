@@ -1,11 +1,11 @@
-import {isOnlyNumbers, getRandomItems} from '../../utils/index.js'
+import {isOnlyNumbers, getRandomItem} from '../../utils/index.js'
   
 function QuickSort(array, first = 0, last = array.length - 1) {
   // first item of the array
   let i = first;
   // last item of the array
   let j = last;
-  const pivote = isOnlyNumbers(array) ? (array[i] + array[j]) / 2 : getRandomItems(array);
+  const pivote = isOnlyNumbers(array) ? (array[i] + array[j]) / 2 : getRandomItem(array);
   
   while (i < j) {
     while (array[i] < pivote) {

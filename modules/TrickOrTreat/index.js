@@ -1,5 +1,5 @@
 import readline from "readline";
-import { getRandomItems } from "../../utils/index.js";
+import { getRandomList } from "../../utils/index.js";
 
 const scaries = ["🎃", "👻", "💀", "🕷", "🕸", "🦇"];
 const candies = ["🍰", "🍬", "🍡", "🍭", "🍪", "🍫", "🧁", "🍩"];
@@ -18,13 +18,13 @@ function ChooseTrick() {
     let cmCount = Math.trunc(item["size"] / 100);
 
     Array.from(item["name"].replace(" ", "")).forEach((item, i) => {
-      if ((i + 1) % 2 == 0) scariesItems += getRandomItems(scaries);
+      if ((i + 1) % 2 == 0) scariesItems += getRandomList(scaries);
     });
 
-    if (item["age"] % 2 == 0) scariesItems += getRandomItems(scaries, 2);
+    if (item["age"] % 2 == 0) scariesItems += getRandomList(scaries, 2);
 
     for (let index = 0; index < cmCount; index++) {
-      scariesItems += getRandomItems(scaries, 3);
+      scariesItems += getRandomList(scaries, 3);
     }
     console.log(scariesItems);
   });
@@ -39,18 +39,18 @@ function ChooseTreat() {
     let cmCount = Math.trunc(item["size"] / 50);
 
     Array.from(item["name"].replace(" ", "")).forEach(() => {
-      candiesItems += getRandomItems(candies);
+      candiesItems += getRandomList(candies);
     });
 
     while (ageCount < 10 && age > 3) {
-      candiesItems += getRandomItems(candies);
+      candiesItems += getRandomList(candies);
       ageCount += 3;
       age -= 3;
     }
 
     if (cmCount <= 3) {
       Array.from(Array(cmCount)).forEach(
-        () => (candiesItems += getRandomItems(candies, 2))
+        () => (candiesItems += getRandomList(candies, 2))
       );
     }
     console.log(candiesItems);
