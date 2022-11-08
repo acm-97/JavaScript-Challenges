@@ -1,11 +1,11 @@
-const array = [2, 4, 6, 3, 5, 6, 3, 2, 7, 5];
-
+import {isOnlyNumbers, getRandomItems} from '../../utils/index.js'
+  
 function QuickSort(array, first = 0, last = array.length - 1) {
   // first item of the array
   let i = first;
   // last item of the array
   let j = last;
-  pivote = (array[i] + array[j]) / 2;
+  const pivote = isOnlyNumbers(array) ? (array[i] + array[j]) / 2 : getRandomItems(array);
   
   while (i < j) {
     while (array[i] < pivote) {
@@ -15,7 +15,7 @@ function QuickSort(array, first = 0, last = array.length - 1) {
       j--;
     }
     if (i <= j) {
-      x = array[j];
+      const x = array[j];
       array[j] = array[i];
       array[i] = x;
       i++;
@@ -33,4 +33,8 @@ function QuickSort(array, first = 0, last = array.length - 1) {
   return array;
 }
 
-console.log(QuickSort(array));
+const arrayNumbers = [2, 4, 6, 3, 5, 6, 3, 2, 7, 5];
+console.log(QuickSort(arrayNumbers));
+
+const arrayStrings = ['Lily', 'Alejandro', 'Molly', 'Alex', 'Chris', 'Nate', 'Bella'];
+console.log(QuickSort(arrayStrings));
