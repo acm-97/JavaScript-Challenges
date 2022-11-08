@@ -1,4 +1,5 @@
 import readline from "readline";
+import { getRandomItems } from "../../utils/index.js";
 
 const scaries = ["🎃", "👻", "💀", "🕷", "🕸", "🦇"];
 const candies = ["🍰", "🍬", "🍡", "🍭", "🍪", "🍫", "🧁", "🍩"];
@@ -10,23 +11,13 @@ const child = [
   { name: "Molly", age: 9, size: 80 },
 ];
 
-// get a random item from an array
-function getRandomItems(arr, lenght = 1) {
-  let items = "";
-  for (let index = 0; index < lenght; index++) {
-    const randomIndex = Math.floor(Math.random() * arr.length);
-    items += arr[randomIndex];
-  }
-  return items;
-}
-
 // logic for answer equals trick
 function ChooseTrick() {
   child.map((item, parentIndex) => {
     let scariesItems = "";
     let cmCount = Math.trunc(item["size"] / 100);
 
-    Array.from(item["name"].replace(' ', '')).forEach((item, i) => {
+    Array.from(item["name"].replace(" ", "")).forEach((item, i) => {
       if ((i + 1) % 2 == 0) scariesItems += getRandomItems(scaries);
     });
 
@@ -47,7 +38,7 @@ function ChooseTreat() {
     let age = item["age"] - 3;
     let cmCount = Math.trunc(item["size"] / 50);
 
-    Array.from(item["name"].replace(' ', '')).forEach(() => {
+    Array.from(item["name"].replace(" ", "")).forEach(() => {
       candiesItems += getRandomItems(candies);
     });
 
