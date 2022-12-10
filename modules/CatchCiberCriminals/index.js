@@ -6,7 +6,7 @@ const asciiToSentence = (str) => {
   let strDecoded = "";
   for (var i = 0; i < str.length; i++) {
     // Append the current digit
-    num = num * 10 + (+str[i]);
+    num = num * 10 + +str[i];
     // If num is within the required range
     if (num >= 97 && num <= 122) {
       // Convert num to char
