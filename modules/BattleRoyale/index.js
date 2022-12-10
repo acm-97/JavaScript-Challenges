@@ -1,30 +1,27 @@
 import { mecenas } from "./mecenas.js";
 
-function battleRoyale(arr) {
-  let newArr = arr;
+function battleRoyale(newArr) {
   let index = 0;
-  let flag =  newArr.filter((val) => val !== "x").length === 1;
 
-  while (index<3) {
-    if (newArr.length === 2) {
-      newArr.splice(index + 1, 1);
-      flag = true;
-      return { newArr, index: arr.indexOf(newArr[0]) };
+  while (newArr.length > 1) {
+    if (index > newArr.length - 1) {
+      battleRoyale(newArr);
+      return;
     }
 
-    const head = newArr.splice(index + 1, 1, "x");
-    index = index + 2;
-
-    if (head[0] === arr[0]) {
+    if (index === newArr.length - 1) {
       newArr.splice(0, 1);
+      battleRoyale(newArr);
+      return;
     }
 
-    if (index > newArr.length) {
-      // newArr = newArr.filter((val) => val !== "x");
-      index++;
-    }
+    newArr.splice(index + 1, 1);
+    index++;
   }
-  return newArr
+  console.log(newArr);
+  return newArr;
 }
 
-console.log(battleRoyale([...mecenas, mecenas[0]]));
+const arr = mecenas.map((value, index) => ({value, index}))
+
+console.log("result: ", battleRoyale(arr));
