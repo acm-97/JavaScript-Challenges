@@ -1,6 +1,6 @@
 import { colors } from "./colors.js";
 
-function CalculateColorStrip(arr) {
+export default function CalculateColorStrip(arr) {
   let strip = [];
   let lastColor = "";
   let maxLength = 0;

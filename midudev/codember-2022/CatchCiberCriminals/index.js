@@ -19,9 +19,11 @@ const asciiToSentence = (str) => {
   return strDecoded;
 };
 
-message = message
-  .split(" ")
-  .map((val) => asciiToSentence(val))
-  .join(" ");
+export default function decryptedCode(code = message) {
+  return code
+    .split(" ")
+    .map((val) => asciiToSentence(val))
+    .join(" ");
+}
 
-console.log(message);
+console.log(decryptedCode());
