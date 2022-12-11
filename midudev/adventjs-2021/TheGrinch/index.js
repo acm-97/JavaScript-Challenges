@@ -1,12 +1,15 @@
 export default function isValid(letter) {
-  const indexOpen = letter.indexOf('(')
-  const lastIndexOpen = letter.lastIndexOf('(')
-  const lastIndexClose = letter.lastIndexOf(')')
-  const arrInvalid = ["[", "]", "{", "}", "()", "(", ")"]
-
-  if(indexOpen > lastIndexClose || lastIndexOpen > lastIndexClose)
-    return false
-  
-  const newLetter = letter.slice(indexOpen + 1, lastIndexClose)
-  return newLetter.length > 0 &&  !arrInvalid.some(val => newLetter.includes(val)) 
-}
+  const gifts = letter.match(/\((.*?)(\)|$)/gm)
+ 
+   if (gifts === null) return true // No parenthesis is allowed
+ 
+   const invalidGift = gifts.find(gift => {
+     return (
+       gift.length === 2 ||
+       gift.slice(-1) !== ')' ||
+       gift.slice(1, -1).match(/[(){}[\]]/)
+     )
+   })
+ 
+   return invalidGift === undefined 
+ }

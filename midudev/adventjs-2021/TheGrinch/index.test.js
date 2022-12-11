@@ -9,6 +9,10 @@ describe('Day 3 challenge', () => {
     expect(isValid('bici coche (balón) peluche')).toBeTruthy()
   })
 
+  test('is valid letter with two parenthesis', () => {
+    expect(isValid('bici coche (balón) tren (moto) peluche')).toBeTruthy()
+  })
+
   test('is valid letter starting with parenthesis', () => {
     expect(isValid('(bici) coche peluche')).toBeTruthy()
   })
