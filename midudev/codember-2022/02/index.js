@@ -1,6 +1,11 @@
-let message =
+  let message =
   "11610497110107115 102111114 11210897121105110103 9911110010110998101114 11210810197115101 11510497114101";
 
+/**
+ * The function takes a string of numbers and converts it to a string of letters.
+ * @param str - The string to decode
+ * @returns "thesentence"
+ */
 const asciiToSentence = (str) => {
   let num = 0;
   let strDecoded = "";
@@ -19,6 +24,12 @@ const asciiToSentence = (str) => {
   return strDecoded;
 };
 
+/**
+ * It takes a string of numbers separated by spaces, converts each number to a character, and returns
+ * the result
+ * @param [code] - The code to be decrypted.
+ * @returns The decrypted code.
+ */
 export default function decryptedCode(code = message) {
   return code
     .split(" ")

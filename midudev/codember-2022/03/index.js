@@ -1,5 +1,11 @@
 import { colors } from "./colors.js";
 
+/**
+ * It takes an array of colors and returns the length of the longest strip of colors and the last color
+ * in that strip
+ * @param arr - an array of strings representing colors
+ * @returns The length of the longest strip of colors and the last color in the strip.
+ */
 export default function CalculateColorStrip(arr) {
   let strip = [];
   let lastColor = "";

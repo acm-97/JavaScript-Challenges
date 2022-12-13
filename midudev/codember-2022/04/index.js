@@ -1,3 +1,8 @@
+/**
+ * It returns true if the array contains at least two 5's and every element is greater than or equal to
+ * the previous element.
+ * @param arr - an array of integers
+ */
 function isValid(arr) {
   let pivot = 0;
   let count5 = arr.filter(val => val === '5').length
@@ -10,6 +15,11 @@ function isValid(arr) {
   });
 }
 
+/**
+ * It loops through all the numbers between 11098 and 98123, and if the number is valid, it adds it to
+ * an array.
+ * @returns {count: 5, pos55: "11153"}
+ */
 function findPass() {
   let min = 11098;
   const max = 98123;

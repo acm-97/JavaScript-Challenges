@@ -1,3 +1,8 @@
+/**
+ * It creates a string of asterisks and spaces that looks like a Christmas tree
+ * @param height - the height of the tree
+ * @returns A string of a Christmas tree.
+ */
 export default function createXmasTree(height) {
   let asteriskRepeat = 1
   let spaceRepeat = height - 1

@@ -1,5 +1,12 @@
 import { mecenas } from "./mecenas.js";
 
+/**
+ * If the index is greater than the length of the array, call the function again with the array. If the
+ * index is equal to the length of the array, remove the first element and call the function again with
+ * the array. Otherwise, remove the element at the index plus one and increment the index.
+ * @param arr - an array of integers
+ * @returns The last element in the array.
+ */
 export default function battleRoyale(arr) {
   let index = 0;
 
