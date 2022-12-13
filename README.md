@@ -24,38 +24,38 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Code-Challenges
 
-| Name  | Answer  |
-| :---- | :---: |
-| [LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/index.js) |
-| [BINARIO A DECIMAL](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/index.js) |
-| [TOP ALGORITMOS: QUICK SORT](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/39/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/39/index.js) |
-| [TRIÁNGULO DE PASCAL](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/40/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/40/index.js) |
-| [LA LEY DE OHM](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/index.js) |
-| [CONVERSOR DE TEMPERATURA](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/42/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/42/index.js) |
-| [TRUCO O TRATO](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/44/index.js) |
-| [BUMERANES](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/44/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/index.js) |
+| Num.   | Name  | Answer  |
+| :----: | :---- | :-----: |
+| 37 | [LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/index.js) |
+| 38 | [BINARIO A DECIMAL](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/index.js) |
+| 39 | [TOP ALGORITMOS: QUICK SORT](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/39/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/39/index.js) |
+| 40 | [TRIÁNGULO DE PASCAL](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/40/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/40/index.js) |
+| 41 | [LA LEY DE OHM](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/41/index.js) |
+| 42 | [CONVERSOR DE TEMPERATURA](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/42/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/42/index.js) |
+| 43 | [TRUCO O TRATO](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/43/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/43/index.js) |
+| 44 | [BUMERANES](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/44/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/44/index.js) |
 
 ## Codemember-2022
 
-| Name  | Answer  |
-| :---- | :---: |
-| [¡Arregla Twitter!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
-| [¡Atrapa a esos ciber criminales!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/index.js) |
-| [La zebra de colores](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/03/index.js) |
-| [Encuentra la contraseña de tu amigo](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/04/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/04/index.js) |
-| [Battle Royale de frameworks y bibliotecas](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/05/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/05/index.js) |
+| Num.   | Name  | Answer  |
+| :----: | :---- | :-----: |
+| 01 | [¡Arregla Twitter!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
+| 02 | [¡Atrapa a esos ciber criminales!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/index.js) |
+| 03 | [La zebra de colores](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/03/index.js) |
+| 04 | [Encuentra la contraseña de tu amigo](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/04/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/04/index.js) |
+| 05 | [Battle Royale de frameworks y bibliotecas](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/05/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/05/index.js) |
 
 ## Adventjs-2021
 
-| Name  | Answer  |
-| :---- | :---: |
-| [Contando ovejas para dormir](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
-| [Ayuda al elfo a listar los regalos!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/index.js) |
-| [El Grinch quiere fastidiar la navidad](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/index.js) |
-| [¡Es hora de poner el árbol de navidad en casa! 🎄](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/index.js) |
-| [Contando los dias para los regalos](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/05/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/05/index.js) |
-| [Rematando los examenes finales](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/06/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/06/index.js) |
-| [Buscando en el almacen](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/07/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/07/index.js) |
-| [La locura de las criptomonedas](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/08/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/08/index.js) |
-| [Agrupando cosas automaticamente](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/09/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/09/index.js) |
-| [La maquina de cambio](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/10/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/10/index.js) |
+| Num.   | Name  | Answer  |
+| :----: | :---- | :-----: |
+| 01 | [Contando ovejas para dormir](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
+| 02 | [Ayuda al elfo a listar los regalos!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/index.js) |
+| 03 | [El Grinch quiere fastidiar la navidad](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/index.js) |
+| 04 | [¡Es hora de poner el árbol de navidad en casa! 🎄](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/index.js) |
+| 05 | [Contando los dias para los regalos](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/05/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/05/index.js) |
+| 06 | [Rematando los examenes finales](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/06/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/06/index.js) |
+| 07 | [Buscando en el almacen](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/07/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/07/index.js) |
+| 08 | [La locura de las criptomonedas](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/08/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/08/index.js) |
+| 09 | [Agrupando cosas automaticamente](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/09/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/09/index.js) |
+| 10 | [La maquina de cambio](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/10/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/10/index.js) |
