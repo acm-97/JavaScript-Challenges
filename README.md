@@ -1,4 +1,4 @@
-# @acm-97/react-snake-gam
+# JavaScript Challenges
 
 [![NodeJS](https://img.shields.io/badge/NodeJS-%20>=%20v12-gren.svg?style=flat)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat)](https://www.javascript.com/)
@@ -16,7 +16,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Table of Contents
 
-- [@acm-97/react-snake-gam](#acm-97react-snake-gam)
+- [JavaScript Challenges](#javascript-challenges)
   - [Table of Contents](#table-of-contents)
   - [Code-Challenges](#code-challenges)
   - [Codemember-2022](#codemember-2022)
