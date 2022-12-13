@@ -10,6 +10,12 @@ A mix of javascript challenges created by Programming Content Creators to practi
 - Challenges by [midudev](https://github.com/midudev)
   - [codember](https://codember.dev/) is a game with programming and research challenges.
   - [adventjs-2021](https://2021.adventjs.dev/) inspired on the [Advent Of Code](https://adventofcode.com/) to improve the programming logic and portfolio of applications..
-  - [adventjs-2022](https://adventjs.dev/) inspired on the [Advent Of Code](https://adventofcode.com/) to improve the programming logic and portfolio of applications..
+  - [adventjs-2022](https://adventjs.dev/) inspired on the [Advent Of Code](https://adventofcode.com/) to improve the programming logic and portfolio of applications.
+
+## Codemember-2022
+
+| Name  | Code  |
+| :---- | :---: |
+| [¡Arregla Twitter!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
 
 ![alt text](https://github.com/acm-97/portfolio-v2/blob/feature/commands/public/javascript-challenges.png)
