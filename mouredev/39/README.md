@@ -1,6 +1,5 @@
-# Reto #39
+# TOP ALGORITMOS: QUICK SORT
 
-TOP ALGORITMOS: QUICK SORT\
 Fecha publicación enunciado: 27/09/22\
 Fecha publicación resolución: 03/10/22\
 Dificultad: MEDIA\

@@ -1,6 +1,5 @@
-# Reto #38
+# BINARIO A DECIMAL O VICEBERSA
 
-BINARIO A DECIMAL\
 Fecha publicación enunciado: 19/09/22\
 Fecha publicación resolución: 27/09/22\
 Dificultad: MEDIA

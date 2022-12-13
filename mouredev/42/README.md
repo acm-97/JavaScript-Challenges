@@ -1,6 +1,5 @@
-# Reto #42
+# CONVERSOR DE TEMPERATURA
 
-CONVERSOR DE TEMPERATURA\
 Fecha publicación enunciado: 17/10/22\
 Fecha publicación resolución: 24/10/22\
 Dificultad: FÁCIL

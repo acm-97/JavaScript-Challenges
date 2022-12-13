@@ -1,6 +1,5 @@
-# Reto #40
+# TRIÁNGULO DE PASCAL
 
-TRIÁNGULO DE PASCAL\
 Fecha publicación enunciado: 03/10/22\
 Fecha publicación resolución: 10/10/22\
 Dificultad: MEDIA

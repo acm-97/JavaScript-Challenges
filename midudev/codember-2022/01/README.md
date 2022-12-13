@@ -13,7 +13,7 @@ fll: número de seguidores
 
 Todo está en un fichero donde los datos de usuario son una secuencia de pares `key:value`, que pueden estar en la misma línea o separado por líneas, y cada usuario está separado por un salto de línea. ¡Ojo porque puede estar todo desordenado!
 
->### Ejemplos de input
+## Ejemplos de input
 >
 >usr:@midudev eme:mi@gmail.com psw:123456 age:22 loc:bcn fll:82
 >
@@ -28,7 +28,7 @@ Todo está en un fichero donde los datos de usuario son una secuencia de pares `
 >El tercer usuario NO es válido. Le falta el campo `age`.\
 >El cuarto usuario SÍ es válido. Tiene todos los campos.
 
-Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
+Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: `https://codember.dev/users.txt`
 
 ## Pistas
 
@@ -37,9 +37,3 @@ Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: 
 - Los usuarios se separan por un salto de línea en blanco.
 - Los usuarios pueden estar repetidos, pero no importa, siguen siendo válidos.
 - Pueden venir datos que no son necesarios para el usuario pero eso no lo hacen inválidos.
-  
-## Cómo enviar la solución
-
-Usa el comando "submit" para enviar tu solución con el número de usuarios correctos + el nombre del último usuario válido. Por ejemplo:
-
-`$ submit 482@midudev`

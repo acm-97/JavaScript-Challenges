@@ -1,6 +1,5 @@
-# Reto #43
+# TRUCO O TRATO
 
-TRUCO O TRATO\
 Fecha publicación enunciado: 24/10/22\
 Fecha publicación resolución: 02/11/22\
 Dificultad: FÁCIL

@@ -1,6 +1,5 @@
-# Reto #44
+# BUMERANES
 
-BUMERANES\
 Fecha publicación enunciado: 02/10/22\
 Fecha publicación resolución: 07/11/22\
 Dificultad: FÁCIL

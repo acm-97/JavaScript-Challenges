@@ -1,6 +1,5 @@
-# Reto #37
+# LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"
   
-LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"\
 Fecha publicación enunciado: 14/09/22\
 Fecha publicación resolución: 19/09/22\
 Dificultad: MEDIA

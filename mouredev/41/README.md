@@ -1,6 +1,5 @@
-# Reto #41
+# LA LEY DE OHM
 
-LA LEY DE OHM\
 Fecha publicación enunciado: 10/10/22\
 Fecha publicación resolución: 17/10/22\
 Dificultad: FÁCIL
