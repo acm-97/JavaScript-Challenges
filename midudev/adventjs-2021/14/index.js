@@ -1,4 +1,4 @@
-function _missingReindeer(ids) {
+export function _missingReindeer(ids) {
   ids = ids.sort();
   let num = -1;
   for (let i = 0; i < ids.length; i++) {
@@ -13,7 +13,7 @@ function _missingReindeer(ids) {
   return num === ids[ids.length - 1] ? num + 1 : num;
 }
 
-function missingReindeer(ids) {
+export function missingReindeer(ids) {
   const unpaired = ids.sort().find((id, index) => id !== index)
   return unpaired ? unpaired - 1 : ids.length
 }
