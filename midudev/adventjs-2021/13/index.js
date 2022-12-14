@@ -6,4 +6,4 @@ export default function wrapGifts(gifts) {
   return [startEnd,  ...arr, startEnd]
 }
 
-console.log(wrapGifts(["🏈🎸", "🎮🧸"]));
+// console.log(wrapGifts(["🏈🎸", "🎮🧸"]));
