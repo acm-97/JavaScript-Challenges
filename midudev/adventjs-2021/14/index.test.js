@@ -1,4 +1,4 @@
-import missingReindeer from './index'
+import {missingReindeer, _missingReindeer} from './index'
 
 const cases = [
   {input: [0, 2, 3], expected: 1},
@@ -17,7 +17,6 @@ describe('Day 14 challenge', () => {
     expect(missingReindeer(input)).toEqual(expected)
   })
 
-describe('Day 14 challenge', () => {
   test.each(cases)('gets $expected using $input with find method', ({input, expected}) => {
     expect(missingReindeer(input)).toEqual(expected)
   })
