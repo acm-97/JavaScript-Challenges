@@ -1,3 +1,12 @@
+/**
+ * It takes an array of strings and returns an array of strings with each string wrapped in asterisks
+ * @param gifts - [
+ * @returns [
+ *   '******',
+ *   '*🎁🎁*',
+ *   '*🎁🎁*',
+ *   '******'
+ */
 export default function wrapGifts(gifts) {
   if (gifts.length === 0) return gifts;
 
