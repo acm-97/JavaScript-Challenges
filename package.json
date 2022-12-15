@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test:codember": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./codember",
-    "test:adbentjs-2021": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./midudev/adventjs-2021",
-    "test:adbentjs-2022": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./midudev/adventjs-2022",
+    "test:adventjs-2021": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./midudev/adventjs-2021",
+    "test:adventjs-2022": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./midudev/adventjs-2022",
     "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch"
   },
   "repository": {
