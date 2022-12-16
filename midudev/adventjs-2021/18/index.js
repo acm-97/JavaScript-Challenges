@@ -10,4 +10,4 @@ export default function fixFiles(files) {
   return fixedFiles;
 }
 
-console.log(fixFiles(["photo", "postcard", "photo", "photo", "video"]));
+// console.log(fixFiles(["photo", "postcard", "photo", "photo", "video"]));
