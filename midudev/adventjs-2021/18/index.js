@@ -1,3 +1,9 @@
+/**
+ * It takes an array of file names, and returns an array of file names with duplicate file names
+ * appended with a number in parentheses
+ * @param files - an array of strings representing file names
+ * @returns [ "file1", "file2" ]
+ */
 export default function fixFiles(files) {
   const fixedFiles = [];
   let filesCount = {};

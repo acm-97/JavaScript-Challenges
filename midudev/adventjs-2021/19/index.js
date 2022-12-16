@@ -1,3 +1,12 @@
+/**
+ * It loops through the array of courses, and for each course it loops through the array again,
+ * starting from the next course, and checks if the sum of the two courses is less than or equal to the
+ * time available, and if it is, it checks if the sum is greater than the current accumulated time, and
+ * if it is, it updates the accumulated time and the best choices
+ * @param time - the amount of time you have to learn
+ * @param courses - [1, 3, 4, 6, 7, 9, 10, 11 ]
+ * @returns The index of the two courses that add up to the time given.
+ */
 export default function learnPlatzi(time, courses) {
   let bestChoises = null;
   let accTime = 0;
