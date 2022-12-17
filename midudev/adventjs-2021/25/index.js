@@ -25,14 +25,3 @@ export default function canMouseEat(direction, game) {
       return game[dim]?.[idx - 1] === "*";
   }
 }
-
-// const room = [
-//   [" ", " ", " "],
-//   [" ", " ", "m"],
-//   [" ", " ", "*"],
-// ];
-
-// console.log(canMouseEat("up", room)); // false
-// console.log(canMouseEat("down", room)); // true
-// console.log(canMouseEat("right", room)); // false
-// console.log(canMouseEat("left", room)); // false

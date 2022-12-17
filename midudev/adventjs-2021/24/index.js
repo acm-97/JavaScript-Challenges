@@ -1,8 +1,8 @@
 /**
  * It checks if the two trees are the same, or if one of them is the inverted version of the other
- * @param treeA - {object}
- * @param treeB - {object}
- * @returns A function that takes two trees as arguments and returns a boolean.
+ * @param {{value: {left: object, right: object}}} treeA
+ * @param {{value: {left: object, right: object}}} treeB
+ * @returns {boolean} A function that takes two trees as arguments and returns a boolean.
  */
 export default function checkIsSameTree(treeA, treeB) {
   const checkNodes = (leftNode, rigthNode) => {

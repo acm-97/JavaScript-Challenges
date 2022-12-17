@@ -1,8 +1,8 @@
 /**
  * It calculates the price of buying a fidelity card for a given number of times, and compares it to
  * the price of buying the same number of tickets without a fidelity card
- * @param times - the number of times you'll be buying the item
- * @returns A boolean value.
+ * @param {number} times - the number of times you'll be buying the item
+ * @returns {boolean} A boolean value.
  */
 export default function shouldBuyFidelity(times) {
   const fidelityPrice = [...Array(times).keys()].reduce(
@@ -11,5 +11,3 @@ export default function shouldBuyFidelity(times) {
   );
   return fidelityPrice < 12 * times;
 }
-
-// console.log(shouldBuyFidelity(3));

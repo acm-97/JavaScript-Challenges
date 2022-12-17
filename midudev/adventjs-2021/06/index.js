@@ -1,9 +1,9 @@
 /**
  * It takes an array of numbers and a result, and returns the first pair of numbers that add up to the
  * result
- * @param numbers - [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
- * @param result - the sum of the two values that will be returned
- * @returns An array of two numbers that add up to the result.
+ * @param {number[]} numbers - [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ * @param {number} result - the sum of the two values that will be returned
+ * @returns {number[]} An array of two numbers that add up to the result.
  */
 export default function sumPairs(numbers, result) {
   let arr = null;

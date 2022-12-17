@@ -2,11 +2,11 @@
  * It sorts the array, then loops through it, checking if the current number is one more than the
  * previous number. If it is, it continues. If it isn't, it breaks out of the loop and returns the
  * number that should be there. If it gets to the end of the loop, it returns the last number plus one
- * @param ids - an array of integers representing the IDs of the reindeer
- * @returns The missing reindeer ID.
+ * @param {number[]} ids - an array of integers representing the IDs of the reindeer
+ * @returns {number} The missing reindeer ID.
  */
 export function _missingReindeer(ids) {
-  ids = ids.sort((a,b) => a-b);
+  ids = ids.sort((a, b) => a - b);
   let num = -1;
   for (let i = 0; i < ids.length; i++) {
     if (ids[i] === num + 1) {
@@ -26,8 +26,6 @@ export function _missingReindeer(ids) {
  * @returns The missing reindeer ID.
  */
 export function missingReindeer(ids) {
-  const unpaired = ids.sort((a,b) => a-b).find((id, index) => id !== index)
-  return unpaired ? unpaired - 1 : ids.length
+  const unpaired = ids.sort((a, b) => a - b).find((id, index) => id !== index);
+  return unpaired ? unpaired - 1 : ids.length;
 }
-
-// console.log(missingReindeer([5, 6, 1, 2, 3, 7, 0]));

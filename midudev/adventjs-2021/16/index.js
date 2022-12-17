@@ -1,7 +1,7 @@
 /**
  * It takes a string of symbols and returns the number they represent.
- * @param symbols - a string of symbols that represent a number
- * @returns The sum of the values of the symbols.
+ * @param {string} symbols - a string of symbols that represent a number
+ * @returns {number} The sum of the values of the symbols.
  */
 export default function decodeNumber(symbols) {
   const decodeObj = {
@@ -20,5 +20,3 @@ export default function decodeNumber(symbols) {
     return acc + value;
   }, 0);
 }
-
-// console.log(decodeNumber(".........!"));
