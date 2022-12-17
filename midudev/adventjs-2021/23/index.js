@@ -1,3 +1,11 @@
+/**
+ * If the two arrays are the same length, and each element in the first array maps to a unique element
+ * in the second array, and each element in the second array maps to a unique element in the first
+ * array, then the two arrays can be reconfigured
+ * @param from - [1, 2, 3, 4]
+ * @param to - [1, 2, 3, 4]
+ * @returns A boolean value.
+ */
 export default function canReconfigure(from, to) {
   if (from.length !== to.length) return false;
 
@@ -14,6 +22,6 @@ export default function canReconfigure(from, to) {
   return true;
 }
 
-const from = "XBOX";
-const to = "XXBO";
-console.log(canReconfigure(from, to));
+// const from = "XBOX";
+// const to = "XXBO";
+// console.log(canReconfigure(from, to));
