@@ -21,6 +21,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
   - [Code-Challenges](#code-challenges)
   - [Codemember-2022](#codemember-2022)
   - [Adventjs-2021](#adventjs-2021)
+  - [Adventjs-2022](#adventjs-2022)
 
 ## Code-Challenges
 
@@ -49,7 +50,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 | Num.   | Name  | Answer  |
 | :----: | :---- | :-----: |
-| 01 | [Contando ovejas para dormir](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
+| 01 | [Contando ovejas para dormir](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/index.js) |
 | 02 | [Ayuda al elfo a listar los regalos!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/index.js) |
 | 03 | [El Grinch quiere fastidiar la navidad](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/03/index.js) |
 | 04 | [¡Es hora de poner el árbol de navidad en casa! 🎄](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/04/index.js) |
@@ -74,3 +75,9 @@ A mix of javascript challenges created by Programming Content Creators to practi
 | 23 | [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/23/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/23/index.js) |
 | 24 | [Comparando árboles de Navidad](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/24/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/24/index.js) |
 | 25 | [El último juego y hasta el año que viene 👋](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/25/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/25/index.js) |
+
+## Adventjs-2022
+
+| Num.   | Name  | Answer  |
+| :----: | :---- | :-----: |
+| 01 | [Automatizando envolver regalos de navidad!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/index.js) |
