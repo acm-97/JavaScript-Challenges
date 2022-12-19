@@ -17,12 +17,13 @@ export default function checkIsSameTree(treeA, treeB) {
     );
   };
 
+  console.log(typeof JSON.stringify(treeA).replace("left", "temp"));
   const invertedTree = (tree) =>
     JSON.parse(
       JSON.stringify(tree)
-        .replaceAll("left", "temp")
-        .replaceAll("right", "left")
-        .replaceAll("temp", "right")
+        .replace(/left/g, "temp")
+        .replace(/right/g, "left")
+        .replace(/temp/g, "right")
     );
 
   return (
