@@ -25,7 +25,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Code-Challenges
 
-| Num.   | Name  | Answer  |
+| No.   | Name  | Answer  |
 | :----: | :---- | :-----: |
 | 37 | [LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/37/index.js) |
 | 38 | [BINARIO A DECIMAL](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/mouredev/38/index.js) |
@@ -38,7 +38,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Codemember-2022
 
-| Num.   | Name  | Answer  |
+| No.   | Name  | Answer  |
 | :----: | :---- | :-----: |
 | 01 | [¡Arregla Twitter!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/01/index.js) |
 | 02 | [¡Atrapa a esos ciber criminales!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/codember-2022/02/index.js) |
@@ -48,7 +48,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Adventjs-2021
 
-| Num.   | Name  | Answer  |
+| No.   | Name  | Answer  |
 | :----: | :---- | :-----: |
 | 01 | [Contando ovejas para dormir](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/01/index.js) |
 | 02 | [Ayuda al elfo a listar los regalos!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/02/index.js) |
@@ -65,7 +65,7 @@ A mix of javascript challenges created by Programming Content Creators to practi
 | 13 | [Envuelve regalos cons asteriscos](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/13/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/13/index.js) |
 | 14 | [En busca del reno perdido](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/14/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/14/index.js) |
 | 15 | [El salto perfecto](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/15/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/15/index.js) |
-| 16 | [Descifrando los numeros](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/16/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/16/index.js) |
+| 16 | [Descifrando los noeros](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/16/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/16/index.js) |
 | 17 | [La locura de enviar paquetes en esta época](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/17/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/17/index.js) |
 | 18 | [El sistema operativo de Santa Claus](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/18/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/18/index.js) |
 | 19 | [¿Qué deberíamos aprender en Platzi?](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/19/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2021/19/index.js) |
@@ -78,7 +78,8 @@ A mix of javascript challenges created by Programming Content Creators to practi
 
 ## Adventjs-2022
 
-| Num.   | Name  | Answer  |
+| No.   | Name  | Answer  |
 | :----: | :---- | :-----: |
 | 01 | [Automatizando envolver regalos de navidad!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/index.js) |
 | 02 | [Nadie quiere hacer horas extra](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/02/index.js) |
+| 03 | [¿Cuántas cajas de regalos puede llevar Papá Noel?](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/03/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/03/index.js) |
