@@ -81,3 +81,4 @@ A mix of javascript challenges created by Programming Content Creators to practi
 | Num.   | Name  | Answer  |
 | :----: | :---- | :-----: |
 | 01 | [Automatizando envolver regalos de navidad!](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/01/index.js) |
+| 02 | [Nadie quiere hacer horas extra](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/02/README.md) | [code](https://github.com/acm-97/JavaScript-Challenges/tree/main/midudev/adventjs-2022/02/index.js) |
