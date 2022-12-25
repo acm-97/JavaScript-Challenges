@@ -1,3 +1,11 @@
+/**
+ * It returns the maximum number of gifts that can be collected by visiting at most maxCities cities,
+ * where each city has at most maxGifts gifts
+ * @param {number[]} giftsCities - number[] - an array of gifts in each city
+ * @param {number} maxGifts - The maximum number of gifts that can be collected in a city.
+ * @param {number} maxCities - The maximum number of cities you can visit.
+ * @returns The maximum number of gifts that can be collected from the cities.
+ */
 function getMaxGifts(
   giftsCities: number[],
   maxGifts: number,
@@ -24,6 +32,14 @@ function getMaxGifts(
   );
 }
 
+/**
+ * It returns the maximum number of gifts that can be collected by visiting at most maxCities cities,
+ * where each city has at most maxGifts gifts
+ * @param {number[]} giftsCities - an array of integers representing the number of gifts in each city
+ * @param {number} maxGifts - The maximum number of gifts that can be collected in a city.
+ * @param {number} maxCities - The maximum number of cities you can visit.
+ * @returns The maximum number of gifts that can be collected from the cities.
+ */
 export default function getMaxGiftsOptimized(
   giftsCities: number[],
   maxGifts: number,
@@ -34,7 +50,6 @@ export default function getMaxGiftsOptimized(
   );
 
   if (allowedGiftsCities.length <= 1 || maxCities === 1) {
-    console.log(0, ...allowedGiftsCities);
     return Math.max(0, ...allowedGiftsCities);
   }
 
